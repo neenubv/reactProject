@@ -1,0 +1,12 @@
+[
+    
+    {
+        "Q": "How React works?",
+        "Ans" :"Firstly the react runs the diffing algorithm to identify the changes that are made in the virtual DOM.Next step is reconciliation, this is used to update the DOM as per the new features.Now, the virtual DOM, which is lightweight in nature and is detached from the specific implementation of the browser.Followingly the ReactElements which are present in virtual DOM are used to build basic nodes.Finally, if the ReactComponent changes the state; the diffing algorithm runs faster and identify the changes. After identification, it automatically updates the DOM with the change difference"
+
+    },
+    {
+        "Q": "What are the features of react?",
+        "Ans" : "1. React improves SEO performance: React boost the performance of the SEO to higher levels as a search engine faces the problem while reading JavaScript of high loaded applications."  
+    }
+]
